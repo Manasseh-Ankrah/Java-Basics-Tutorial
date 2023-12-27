@@ -1,4 +1,4 @@
-package Study;
+package TeluskoTutorial;
 
 public class PrintStars {
     public static void main (String[] args) {
