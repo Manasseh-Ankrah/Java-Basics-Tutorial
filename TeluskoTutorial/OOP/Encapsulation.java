@@ -2,8 +2,8 @@ package TeluskoTutorial.OOP;
 
 
 class Operations {
-    int num_1;
-    int num_2;
+    private int num_1;
+    private int num_2;
 
     // Setters
     public void setNum_1(int num_1) {
@@ -26,7 +26,6 @@ class Operations {
 public class Encapsulation {
     public static void main (String[] Args){
         Operations opp = new Operations();
-        opp.num_1 = 3;
 
         opp.setNum_1(3);
         opp.setNum_2(50);
