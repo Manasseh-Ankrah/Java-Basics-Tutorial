@@ -1,8 +1,5 @@
 package TeluskoTutorial.OOP;
 
-
-
-
 //@FunctionalInterface
 interface Teachers {
     void speak();

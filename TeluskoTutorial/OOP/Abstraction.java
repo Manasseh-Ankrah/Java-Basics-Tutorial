@@ -11,7 +11,6 @@ abstract class Animal {
 
 
  class Cat extends Animal {
-
      public void sound(){
          System.out.println("Muuuu!");
      };
